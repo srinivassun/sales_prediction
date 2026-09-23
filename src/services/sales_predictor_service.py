@@ -1,8 +1,5 @@
 import joblib
 import pandas as pd
-from dotenv import load_dotenv
-import os
-from openai import OpenAI
 
 class SalesPredictor:
 
